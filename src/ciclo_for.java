@@ -25,7 +25,7 @@ public class ciclo_for {
 		for(int l=1;l<=contador;l+=2) {//numeros pares
 		
 			System.out.println(l);
-	}
+	} 
 	}
 
 }
